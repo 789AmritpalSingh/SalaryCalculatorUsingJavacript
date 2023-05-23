@@ -1,0 +1,17 @@
+.salaryCalculator{
+    color: yellowgreen;
+    background-color: black;
+    font-size: large;
+    font-style: italic;
+    padding:20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#finalData{
+    color: white;
+    background-color: blue;
+    padding:10px;
+}
+#calculateButton{
+    padding-right: 40px;
+}
